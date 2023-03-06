@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="client_id">616345002990-e2kadvpsomnap3mfn32kuk2gp81m7kph.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1896286667394576</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">d301fd952b71b316225379198ba69321</string>
+</resources>
